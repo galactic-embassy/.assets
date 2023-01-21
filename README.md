@@ -5,6 +5,7 @@
 <h3 align='center'>Asset Repository</h3>
 
 
+https://galactic-embassy.github.io/.assets/
 
 ## Copyright
 
