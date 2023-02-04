@@ -12,6 +12,11 @@ Base URL: [https://galactic-embassy.github.io/.assets/](https://galactic-embassy
 
 
 
+## Profiles
+
+[Galactic Embassy Profiles](https://docs.google.com/spreadsheets/d/e/2PACX-1vRTKEKfSLkQuaEZ-jxiZWaGAP1BlQD7Qh2qgAATm09_0WcqkkkOpckeX7hvoekjqoU4pMriszZCXg8N/pubhtml)
+
+
 
 ## Copyright
 
